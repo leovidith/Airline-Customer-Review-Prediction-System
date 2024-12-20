@@ -32,6 +32,8 @@ The model achieved an outstanding **99.6% validation accuracy**, reflecting its 
 - **Validation Accuracy**: 99.6%
 - **Training Accuracy**: Consistent high performance, demonstrating model stability and reliability.
 
+<img src="https://github.com/leovidith/Airline-Customer-Review-Prediction-System/blob/main/Images/loss%20curves.png" width=1000px>
+
 ## **Agile Features**
 
 1. **Preprocessing Pipeline**:
