@@ -1,4 +1,4 @@
-# **Airline Customer Review Prediction System**
+# **Customer Review Prediction System**
 
 ## **Overview**
 This project is designed to predict whether a customer review for an airline is positive or negative based on textual analysis. Leveraging BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art NLP model, the system effectively classifies reviews, assisting in gauging customer satisfaction and identifying areas for improvement. By transforming unstructured review data into actionable insights, this project showcases the power of machine learning in real-time sentiment analysis.
